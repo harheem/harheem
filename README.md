@@ -8,17 +8,8 @@
 ### <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Earth.gif" width="24px">
 
 
-<p>
-  <em>
-    •	A developer who is a fast learner, enjoyable, and sociable. <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Developer.gif" width="30px"> <br>
-    •	A challenger who constantly learns and explores for my growth. <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Rocket.gif" width="18px"> <br>
-  </em>  
-</p>
-
-<br>
-
-### 프로젝트 경험
-1. Qiskit에서 Crowdin 프로젝트에 참여하여 Qiskit-Docs 한글화 작업에 기여
+### 🚀 주요 프로젝트 경험
+1. Qiskit에서 Crowdin 프로젝트에 참여하여 Qiskit-Docs 한글화 작업 기여
     - Python, 양자컴퓨터, 문서화, 번역 작업, Markdown, jupyter notebook
 2. Getting Started with Qiskit (explained by a software developer, not a quantum physicist) 아티클 번역 작업
     - Python, 양자컴퓨터, 문서화, 번역 작업, Markdown, jupyter notebook
